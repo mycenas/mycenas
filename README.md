@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @mycenas
-- 👀 I’m interested in ... creative and interactive coding, art, audio, design
-- 🌱 I’m currently learning ... GSAP
-- 📫 How to reach me ... marniemycena@gmail.com   
-- 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... owls and bats come out at night
+
